@@ -1,4 +1,4 @@
-### Hi there 👋
+こんにちは、北川です。ここは私が作ったプログラムとかが置いてある場所です。私のモットーは人の役に立たないものを全力で作ろうなので、ここに置いている物は役に立たないものです。
 
 <!--
 **KitagawaFuuga/KitagawaFuuga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
