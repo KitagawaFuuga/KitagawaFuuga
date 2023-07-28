@@ -1,4 +1,4 @@
-こんにちは、北川です。ここは私が作ったプログラムとかが置いてある場所です。私のモットーは人の役に立たないものを全力で作ろうなので、ここに置いている物は役に立たないものです。
+こんにちは、北川です。ここは私が作ったプログラムとかが置いてある場所です。
 
 [![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=KitagawaFuuga&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/KitagawaFuuga/) 
 
